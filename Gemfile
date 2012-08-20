@@ -1,0 +1,7 @@
+source 'http://rubygems.org'
+gem 'sinatra'
+gem 'databasedotcom'
+gem 'heroku'
+gem 'omniauth'
+gem 'omniauth-google-oauth2'
+gem 'shotgun'
